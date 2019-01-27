@@ -12,12 +12,16 @@ li.nav-item i {
 	left: 20px;
 }
 
+img.logo {
+	width: 25%;
+}
+
 body {
 	background-color: #fafafa;
 }
 
 .mr-auto {
-	margin-left: 18%;
+	margin-left: -35%;
 }
 
 .custom-bg {
@@ -28,7 +32,7 @@ body {
 }
 
 .trending-discussion, .top-jobs {
-	border: 1px solid #3d3d3d;
+	border: 1px solid #eee;
 }
 
 input#search-input {
@@ -57,7 +61,7 @@ button.search-button {
 }
 
 .bordered {
-	border: 1px solid #3d3d3d;
+	border: 1px solid #eee;
 	height: auto;
 	margin: 0;
 	padding: 0;
@@ -99,7 +103,7 @@ h4.about {
 }
 
 .border-line {
-	border: 1px solid #3d3d3d;
+	border: 1px solid #eee;
 	position: relative;
 	top: 28px;
 }
@@ -130,13 +134,13 @@ img.living-room {
 /* work */
 
 .highlights, .experience, .company-follow {
-	border: 1px solid #3d3d3d;
+	border: 1px solid #eee;
   height: 350px;
   margin: 5px 15px 0px 16px;
 }
 
 .activities {
-	border: 1px solid #3d3d3d;
+	border: 1px solid #eee;
 }
 
 i.fab.fa-apple, 
@@ -177,7 +181,7 @@ span.apple-icon {
 }
 
 h3.title , .tagline {
-	border-bottom: 1px solid #3d3d3d;
+	border-bottom: 1px solid #eee;
 }
 
 h3.title {
